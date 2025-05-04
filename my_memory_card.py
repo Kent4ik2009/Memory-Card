@@ -23,6 +23,7 @@ questions_list.append(Question('Какой вид спорта лучше все
 questions_list.append(Question('Что падает зимой','Снег','Метеориты','Кислотные капли','Дети'))
 questions_list.append(Question('Правильный ответ А','Г','Б','А','Д'))
 questions_list.append(Question('Как с английского на русский язык будет window','Окно','Дверь','Заставка','Стекло'))
+questions_list.append(Question('Кто по утрам встаёт раньше всех и кричит кукареку','петух','собака','человек','корова')) 
 app = QApplication([])
 
 
